@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multiplayer Web Game</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #000;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            overflow: hidden;
+        }
+        #game-container {
+            margin: 0;
+            padding: 0;
+            width: 100vw;
+            height: 100vh;
+        }
+        #game-container canvas {
+            margin: 0 !important;
+            padding: 0 !important;
+            display: block !important;
+        }
+        #ui {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            color: white;
+            font-size: 16px;
+            z-index: 1000;
+        }
+        #connection-status {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            color: white;
+            font-size: 14px;
+            z-index: 1000;
+        }
+    </style>
+  <script type="module" crossorigin src="/MonTamer.io/assets/index-DPKNMk6y.js"></script>
+  <link rel="modulepreload" crossorigin href="/MonTamer.io/assets/phaser-D3dYiAfh.js">
+  <link rel="modulepreload" crossorigin href="/MonTamer.io/assets/colyseus-B6_9Nfu6.js">
+</head>
+<body>
+    <div id="ui">
+        <div>Score: <span id="score">0</span></div>
+        <div>Players: <span id="player-count">0</span></div>
+    </div>
+    <div id="connection-status">Connecting...</div>
+    <div id="game-container"></div>
+</body>
+</html> 
