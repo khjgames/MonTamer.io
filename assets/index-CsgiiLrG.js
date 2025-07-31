@@ -33,7 +33,7 @@ K: Import from file`,{fontSize:"14px",fill:"#ffff00",fontFamily:"Arial",backgrou
         `;const i=document.createElement("div");i.textContent="Enter your name to start",i.style.cssText=`
             position: absolute;
             left: 50%;
-            top: ${this.isPortrait?"25%":"20%"};
+            top: ${this.isPortrait?"25%":"19%"};
             transform: translate(-50%, -50%);
             font-size: ${this.isPortrait?"18px":"22px"};
             color: #ccc;
@@ -43,7 +43,7 @@ K: Import from file`,{fontSize:"14px",fill:"#ffff00",fontFamily:"Arial",backgrou
         `;const s=document.createElement("div");s.style.cssText=`
             position: absolute;
             left: 50%;
-            top: ${this.isPortrait?"32%":"30%"};
+            top: ${this.isPortrait?"32%":"29%"};
             transform: translate(-50%, -50%);
             font-size: ${this.isPortrait?"12px":"14px"};
             color: #888;
@@ -54,10 +54,10 @@ K: Import from file`,{fontSize:"14px",fill:"#ffff00",fontFamily:"Arial",backgrou
         `,s.innerHTML="Supports up to 100 players per room<br>Multiple players from same computer/browser supported";const n=document.createElement("input");n.type="text",n.placeholder="Enter your name...",n.style.cssText=`
             position: absolute;
             left: 50%;
-            top: ${this.isPortrait?"42%":"40%"};
+            top: ${this.isPortrait?"42%":"39%"};
             transform: translate(-50%, -50%);
-            padding: ${this.isPortrait?"12px":"11px"};
-            font-size: ${this.isPortrait?"16px":"18px"};
+            padding: ${this.isPortrait?"12px":"8px"};
+            font-size: ${this.isPortrait?"16px":"14px"};
             border: 2px solid #3498db;
             border-radius: 5px;
             background: #2c3e50;
@@ -69,10 +69,10 @@ K: Import from file`,{fontSize:"14px",fill:"#ffff00",fontFamily:"Arial",backgrou
         `;const o=document.createElement("button");o.textContent="JOIN GAME",o.style.cssText=`
             position: absolute;
             left: 50%;
-            top: ${this.isPortrait?"52%":"54%"};
+            top: ${this.isPortrait,"52%"};
             transform: translate(-50%, -50%);
-            padding: ${this.isPortrait?"15px 30px":"14px 27px"};
-            font-size: ${this.isPortrait?"24px":"28px"};
+            padding: ${this.isPortrait?"15px 30px":"10px 20px"};
+            font-size: ${this.isPortrait?"24px":"21px"};
             background: #2c3e50;
             color: #3498db;
             border: 2px solid #3498db;
@@ -86,8 +86,8 @@ K: Import from file`,{fontSize:"14px",fill:"#ffff00",fontFamily:"Arial",backgrou
             left: 50%;
             top: ${this.isPortrait?"62%":"67%"};
             transform: translate(-50%, -50%);
-            padding: ${this.isPortrait?"10px 20px":"9px 18px"};
-            font-size: ${this.isPortrait?"16px":"18px"};
+            padding: ${this.isPortrait?"10px 20px":"7px 14px"};
+            font-size: ${this.isPortrait?"16px":"14px"};
             background: #2c3e50;
             color: #95a5a6;
             border: 2px solid #95a5a6;
@@ -101,8 +101,8 @@ K: Import from file`,{fontSize:"14px",fill:"#ffff00",fontFamily:"Arial",backgrou
             left: 50%;
             top: ${this.isPortrait?"72%":"80%"};
             transform: translate(-50%, -50%);
-            padding: ${this.isPortrait?"10px 20px":"9px 18px"};
-            font-size: ${this.isPortrait?"16px":"18px"};
+            padding: ${this.isPortrait?"10px 20px":"7px 14px"};
+            font-size: ${this.isPortrait?"16px":"14px"};
             background: #2c3e50;
             color: #e74c3c;
             border: 2px solid #e74c3c;
