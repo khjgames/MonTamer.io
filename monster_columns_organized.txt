@@ -1,0 +1,176 @@
+MONSTER COLUMN ORGANIZATION BY VERTICAL COLUMNS
+
+FIRE ELEMENT (Rows 0-1):
+Row 1: Fire Icon, Fire Imp, Hellhound, Salamnder, Fire Core, Salamnder Mystic, East Dragon, Fire Dragon, Flame Hippogriff, Fiend Dragon, Fire Giant, Salamander Guardian
+Row 2: Lesser Fire, Hell Hog, Fire Bat, Lava Worm, Lava Slime, Flame Wing, Lava Golem, Molten Gargoyle, Flare Hellion, Fire Elemental, Fiend Drake, Phoenix
+
+VERTICAL COLUMNS (0-indexed):
+Column 0: Fire Icon, Lesser Fire
+Column 1: Fire Imp, Hell Hog  
+Column 2: Hellhound, Fire Bat
+Column 3: Salamander, Lava Worm
+Column 4: Fire Core, Lava Slime
+Column 5: Salamander Mystic, Flame Wing
+Column 6: East Dragon, Lava Golem
+Column 7: Fire Dragon, Molten Gargoyle
+Column 8: Flame Hippogriff, Flare Hellion
+Column 9: Fiend Dragon, Fire Elemental
+Column 10: Fire Giant, Fiend Drake
+Column 11: Salamander Guardian, Phoenix
+
+DANGER LEVEL ASSIGNMENT:
+Danger 1 (Columns 1-3): Fire Imp, Hellhound, Lesser Fire, Hell Hog, Fire Bat
+Danger 2 (Columns 4-5): Salamander, Fire Core, Lava Worm, Lava Slime
+Danger 3 (Columns 6-7): Salamander Mystic, Flame Wing, East Dragon, Lava Golem
+Danger 4 (Columns 8-9): Fire Dragon, Molten Gargoyle, Flame Hippogriff, Flare Hellion
+Danger 5 (Columns 10-11): Fiend Dragon, Fire Giant, Salamander Guardian, Fire Elemental, Fiend Drake, Phoenix
+
+WATER ELEMENT (Rows 2-3):
+Row 3: Water Icon, Glacial Rat, Glacial Bat, Ice Spider, Glacial Ant, Kraken, Drowned Soul, Ice Serpent, Ice Behemoth, Aqua Dragon, Blizzard Dragon, Quicksilver Dragon
+Row 4: Snapping Turtle, Giant Goldfish, Lava Fish, Ice Beast, Water Slime, Giant Crab, Glacial Troll, Great White Shark, Ice Devil, Ice Fiend, Ice Demon, Frozen Dragon
+
+VERTICAL COLUMNS (0-indexed):
+Column 0: Water Icon, Snapping Turtle
+Column 1: Glacial Rat, Giant Goldfish
+Column 2: Glacial Bat, Lava Fish
+Column 3: Ice Spider, Ice Beast
+Column 4: Glacial Ant, Water Slime
+Column 5: Kraken, Giant Crab
+Column 6: Drowned Soul, Glacial Troll
+Column 7: Ice Serpent, Great White Shark
+Column 8: Ice Behemoth, Ice Devil
+Column 9: Aqua Dragon, Ice Fiend
+Column 10: Blizzard Dragon, Ice Demon
+Column 11: Quicksilver Dragon, Frozen Dragon
+
+DANGER LEVEL ASSIGNMENT:
+Danger 1 (Columns 1-3): Glacial Rat, Glacial Bat, Snapping Turtle, Giant Goldfish, Lava Fish
+Danger 2 (Columns 4-5): Ice Spider, Glacial Ant, Ice Beast, Water Slime
+Danger 3 (Columns 6-7): Kraken, Drowned Soul, Giant Crab, Glacial Troll
+Danger 4 (Columns 8-9): Ice Serpent, Ice Behemoth, Great White Shark, Ice Devil
+Danger 5 (Columns 10-11): Aqua Dragon, Blizzard Dragon, Ice Fiend, Ice Demon, Quicksilver Dragon, Frozen Dragon
+
+EARTH ELEMENT (Rows 4-5):
+Row 5: Earth Icon, Bear, Wolf, Boulder Beetle, Earth Drake, Earth Salamander, Rock Serpent, Crystal Golem, Earth Golem, Earth Fiend, Earth Giant, Beast
+Row 6: Earthen Goop, Earth Iguana, Rock Spider, Armadillo, Earth Slime, Rock Toad, Bull, Giant Scorpion, Earth Worm, Lycanthrope, Rock Golem, Chimera
+
+VERTICAL COLUMNS (0-indexed):
+Column 0: Earth Icon, Earthen Goop
+Column 1: Bear, Earth Iguana
+Column 2: Wolf, Rock Spider
+Column 3: Boulder Beetle, Armadillo
+Column 4: Earth Drake, Earth Slime
+Column 5: Earth Salamander, Rock Toad
+Column 6: Rock Serpent, Bull
+Column 7: Crystal Golem, Giant Scorpion
+Column 8: Earth Golem, Earth Worm
+Column 9: Earth Fiend, Lycanthrope
+Column 10: Earth Giant, Rock Golem
+Column 11: Beast, Chimera
+
+DANGER LEVEL ASSIGNMENT:
+Danger 1 (Columns 1-3): Bear, Wolf, Earthen Goop, Earth Iguana, Rock Spider
+Danger 2 (Columns 4-5): Boulder Beetle, Earth Drake, Armadillo, Earth Slime
+Danger 3 (Columns 6-7): Earth Salamander, Rock Serpent, Rock Toad, Bull
+Danger 4 (Columns 8-9): Crystal Golem, Earth Golem, Giant Scorpion, Earth Worm
+Danger 5 (Columns 10-11): Earth Fiend, Earth Giant, Lycanthrope, Rock Golem, Beast, Chimera
+
+GRASS ELEMENT (Rows 6-7):
+Row 7: Grass Icon, Bumble Bee, Catterpillar, Centipede, Carnivorous Bud, Tribal Guard, Butterfly, Tribal Druid, Giant Wasp, Juggernaut, Tree Spirit, Basilisk
+Row 8: Grass Gecko, Soldier Ant, Spider, Dryad, Grass Slime, Thorn Hunter, Troll, Treant, Deathcap, Demonic Vine, Tribal Wing, Lindwurm
+
+VERTICAL COLUMNS (0-indexed):
+Column 0: Grass Icon, Grass Gecko
+Column 1: Bumble Bee, Soldier Ant
+Column 2: Catterpillar, Spider
+Column 3: Centipede, Dryad
+Column 4: Carnivorous Bud, Grass Slime
+Column 5: Tribal Guard, Thorn Hunter
+Column 6: Butterfly, Troll
+Column 7: Tribal Druid, Treant
+Column 8: Giant Wasp, Deathcap
+Column 9: Juggernaut, Demonic Vine
+Column 10: Tree Spirit, Tribal Wing
+Column 11: Basilisk, Lindwurm
+
+DANGER LEVEL ASSIGNMENT:
+Danger 1 (Columns 1-3): Bumble Bee, Catterpillar, Grass Gecko, Soldier Ant, Spider
+Danger 2 (Columns 4-5): Centipede, Carnivorous Bud, Dryad, Grass Slime
+Danger 3 (Columns 6-7): Tribal Guard, Butterfly, Thorn Hunter, Troll
+Danger 4 (Columns 8-9): Tribal Druid, Giant Wasp, Treant, Deathcap
+Danger 5 (Columns 10-11): Juggernaut, Tree Spirit, Demonic Vine, Tribal Wing, Basilisk, Lindwurm
+
+LIGHTNING ELEMENT (Rows 8-9):
+Row 9: Lightning Icon, Raiju, Jellyfish, Shock Serpent, Electric Eel, Storm Troll, Charged Weapons, Griffon, Static Beast, Storm Weaver, Storm Drake, Static
+Row 10: Static Rat, Electric Moth, Static Wing, Storm Spirit, Charged Slime, Thunder Tormentor, Static Wasp, Wind Elemental, Thunder Devil, Storm Dragon, Static Spider, Lightning Elemental
+
+VERTICAL COLUMNS (0-indexed):
+Column 0: Lightning Icon, Static Rat
+Column 1: Raiju, Electric Moth
+Column 2: Jellyfish, Static Wing
+Column 3: Shock Serpent, Storm Spirit
+Column 4: Electric Eel, Charged Slime
+Column 5: Storm Troll, Thunder Tormentor
+Column 6: Charged Weapons, Static Wasp
+Column 7: Griffon, Wind Elemental
+Column 8: Static Beast, Thunder Devil
+Column 9: Storm Weaver, Storm Dragon
+Column 10: Storm Drake, Static Spider
+Column 11: Static, Lightning Elemental
+
+DANGER LEVEL ASSIGNMENT:
+Danger 1 (Columns 1-3): Raiju, Jellyfish, Static Rat, Electric Moth, Static Wing
+Danger 2 (Columns 4-5): Shock Serpent, Electric Eel, Storm Spirit, Charged Slime
+Danger 3 (Columns 6-7): Storm Troll, Charged Weapons, Thunder Tormentor, Static Wasp
+Danger 4 (Columns 8-9): Griffon, Static Beast, Wind Elemental, Thunder Devil
+Danger 5 (Columns 10-11): Storm Weaver, Storm Drake, Storm Dragon, Static Spider, Static, Lightning Elemental
+
+POISON ELEMENT (Rows 10-11):
+Row 11: Poison Icon, Plague Wolf, Plague Crab, Plague Toad, Plague Corpse, Plague Tortoise, Plague Ogre, Rotting Devil, Bog Spirit, Green Death, Toxic Beast, Toxic Dragon
+Row 12: Plague Rat, Plague, Lizard, Plague Bat, Venomm Cobra, Venom Spider, Poison Slime, Plague Octopus, Plague Drake, Plague Roots, Mind worm, Beholder, Mind Demon
+
+VERTICAL COLUMNS (0-indexed):
+Column 0: Poison Icon, Plague Rat
+Column 1: Plague Wolf, Plague
+Column 2: Plague Crab, Lizard
+Column 3: Plague Toad, Plague Bat
+Column 4: Plague Corpse, Venomm Cobra
+Column 5: Plague Tortoise, Venom Spider
+Column 6: Plague Ogre, Poison Slime
+Column 7: Rotting Devil, Plague Octopus
+Column 8: Bog Spirit, Plague Drake
+Column 9: Green Death, Plague Roots
+Column 10: Toxic Beast, Mind worm
+Column 11: Toxic Dragon, Beholder, Mind Demon
+
+DANGER LEVEL ASSIGNMENT:
+Danger 1 (Columns 1-3): Plague Wolf, Plague Crab, Plague Rat, Plague, Lizard
+Danger 2 (Columns 4-5): Plague Toad, Plague Corpse, Plague Bat, Venomm Cobra
+Danger 3 (Columns 6-7): Plague Tortoise, Plague Ogre, Venom Spider, Poison Slime
+Danger 4 (Columns 8-9): Rotting Devil, Bog Spirit, Plague Octopus, Plague Drake
+Danger 5 (Columns 10-11): Green Death, Toxic Beast, Plague Roots, Mind worm, Toxic Dragon, Beholder, Mind Demon
+
+DARK ELEMENT (Rows 12-13):
+Row 13: Darkness Icon, Bat, Skull hound, Cloaked Nightmare, Bone Serpent, Lich, Skeleton Bat, Sekeltal Demon, Evil Spirit, Dark Hellion, Bone Hydra, Soul Eater
+Row 14: Dark Crows, Dartk Imp, Bone Raptor, Shadow Fiend, Dark Slime, Lost Soul, Revenant, Shadow, Smoke Fiend, Smoke Demon, Bone Dragon, Lich Dragon
+
+VERTICAL COLUMNS (0-indexed):
+Column 0: Darkness Icon, Dark Crows
+Column 1: Bat, Dartk Imp
+Column 2: Skull hound, Bone Raptor
+Column 3: Cloaked Nightmare, Shadow Fiend
+Column 4: Bone Serpent, Dark Slime
+Column 5: Lich, Lost Soul
+Column 6: Skeleton Bat, Revenant
+Column 7: Sekeltal Demon, Shadow
+Column 8: Evil Spirit, Smoke Fiend
+Column 9: Dark Hellion, Smoke Demon
+Column 10: Bone Hydra, Bone Dragon
+Column 11: Soul Eater, Lich Dragon
+
+DANGER LEVEL ASSIGNMENT:
+Danger 1 (Columns 1-3): Bat, Skull hound, Dark Crows, Dartk Imp, Bone Raptor
+Danger 2 (Columns 4-5): Cloaked Nightmare, Bone Serpent, Shadow Fiend, Dark Slime
+Danger 3 (Columns 6-7): Lich, Skeleton Bat, Lost Soul, Revenant
+Danger 4 (Columns 8-9): Sekeltal Demon, Evil Spirit, Shadow, Smoke Fiend
+Danger 5 (Columns 10-11): Dark Hellion, Bone Hydra, Smoke Demon, Bone Dragon, Soul Eater, Lich Dragon 
