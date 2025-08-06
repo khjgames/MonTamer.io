@@ -1,0 +1,14 @@
+Fire Imp, Hellhound, Salamander, Fire Core, Salamander Mystic, East Dragon, Fire Dragon, Flame Hippogriff, Fiend Dragon, Fire Giant, Salamander Guardian 
+Lesser Fire, Hell Hog, Fire Bat, Lava Worm, Lava Slime, Flame Wing, Lava Golem, Molten Gargoyle, Flare Hellion, Fire Elemental, Fiend Drake, Phoenix
+Glacial Rat, Glacial Bat, Ice Spider, Glacial Ant, Kraken, Drowned Soul, Ice Serpent, Ice Behemoth, Aqua Dragon, Blizzard Dragon, Quicksilver Dragon
+Snapping Turtle, Giant Goldfish, Lava Fish, Ice Beast, Water Slime, Giant Crab, Glacial Troll, Great White Shark, Ice Devil, Ice Fiend, Ice Demon, Frozen Dragon
+Bear, Wolf, Boulder Beetle, Earth Drake, Earth Salamander, Rock Serpent, Crystal Golem, Earth Golem, Earth Fiend, Earth Giant, Beast
+Earthen Goop, Earth Iguana, Rock Spider, Armadillo, Earth Slime, Rock Toad, Bull, Giant Scorpion, Earth Worm, Lycanthrope, Rock Golem, Chimera
+Bumble Bee, Catterpillar, Centipede, Carnivorous Bud, Tribal Guard, Butterfly, Tribal Druid, Giant Wasp, Juggernaut, Tree Spirit, Basilisk,
+Grass Gecko, Soldier Ant, Spider, Dryad, Grass Slime, Thorn Hunter, Troll, Treant, Deathcap, Demonic Vine, Tribal Wing, Lindwurm
+Raiju, Jellyfish, Shock Serpent, Electric Eel, Storm Troll, Charged Weapons, Griffon, Static Beast, Storm Weaver, Storm Drake, Static
+Static Rat, Electric Moth , Static Wing, Storm Spirit, Charged Slime, Thunder Tormentor, Static Wasp, Wind Elemental, Thunder Devil, Storm Dragon, Static Spider, Lightning Elemental,
+Plague Wolf, Plague Crab, Plague Toad, Plague Corpse, Plague Tortoise, Plague Ogre, Rotting Devil, Bog Spirit, Green Death, Toxic Beast, Toxic Dragon,
+Plague Rat, Plague Lizard, Plague Bat, Venomm Cobra, Venom Spider, Poison Slime, Plague Octopus, Plague Drake, Plague Roots, Mind worm, Beholder, Mind Demon
+Bat, Skull hound, Cloaked Nightmare, Bone Serpent, Lich, Skeleton Bat, Skeletal Demon, Evil Spirit, Dark Hellion, Bone Hydra, Soul Eater
+Dark Crows, Dark Imp, Bone Raptor, Shadow Fiend, Dark Slime, Lost Soul, Revenant, Shadow, Smoke Fiend, Smoke Demon, Bone Dragon, Lich Dragon
